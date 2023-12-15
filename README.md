@@ -1,4 +1,4 @@
-# Heart-disease-predction
+# Heart-disease-prediction
 
 Introduction:
 Heart disease is a prevalent and potentially life-threatening health condition that affects millions of people worldwide. Early detection and risk prediction play a crucial role in preventing and managing heart diseases effectively. Logistic regression, a statistical method, has proven to be a valuable tool in predicting the likelihood of binary outcomes, making it suitable for heart disease prediction.
