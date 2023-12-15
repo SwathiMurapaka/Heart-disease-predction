@@ -32,7 +32,7 @@ Data set:
 The dataset come from Behavioral Risk Factor Surveillance System (BRFSS), which conducts annual telephone surveys to gather data on the health status of the dataset of US residents with 319794 rows and 12 columns.
 ![image](https://github.com/SwathiMurapaka/Heart-disease-predction/assets/127839306/0c0f43b7-9bf6-4bba-8fd1-e509229eec1d)
 
-# you cab find dataset here
+# you can find the dataset here
 https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease
 Heart Disease Dataset
 ![image](https://github.com/SwathiMurapaka/Heart-disease-predction/assets/127839306/016f4e00-fba3-4118-b458-01e57078c069)
